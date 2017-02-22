@@ -31,7 +31,3 @@ export function merge(left, right){
 
   return result
 }
-
-
-  //1. continuously split the list in halves until each list has one element in them
-  //2.repeatedly merge pairs of list using the comparison algorithm we used before
