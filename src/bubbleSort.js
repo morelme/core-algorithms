@@ -1,3 +1,5 @@
+//time complexity: O(n^2)
+
 export default function bubbleSort(arr){
   var swapped
   do {
