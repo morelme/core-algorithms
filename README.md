@@ -6,10 +6,9 @@ Base repository for the [Core Algorithms](https://github.com/GuildCrafts/web-dev
 
 ## Installation and Setup
 
-_Fill this out_
+1. git clone 
+2. npm i
 
 ## Usage and Examples
-
+1. npm t
 Link to Big O time complexities: http://bigocheatsheet.com/
-
-_...and this_
