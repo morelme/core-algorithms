@@ -25,7 +25,7 @@ mergeSort([10, 2, 7, 5, 8, 3, 6, 1, 4, 9])
 // => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
-#### [x] bubbleSort
+- [x] bubbleSort
 
 Sort an array of numbers using the **bubble sort** algorithm.
 
@@ -34,7 +34,7 @@ bubbleSort([10, 2, 7, 5, 8, 3, 6, 1, 4, 9])
 // => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
-#### [] binarySearch
+- [] binarySearch
 
 Search for a number within an array using the **binary search** algorithm.
 
@@ -47,7 +47,7 @@ binarySearch(numbers, 45)
 
 ## Graphing and Geometry
 
-#### []closestPair
+- []closestPair
 
 Given a set of points on a 2-dimensional plane, return the pair of points with the least distance between them.
 
@@ -70,7 +70,7 @@ closestPair(points)
 // => { pair: [[-1, 0], [-2, 0]], distance: 1 }
 ```
 
-#### []isConnectedGraph
+- []isConnectedGraph
 
 Check if a graph is connected or disconnected. Return `true` or `false`.
 
