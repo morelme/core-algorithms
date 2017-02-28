@@ -6,11 +6,11 @@ Base repository for the [Core Algorithms](https://github.com/GuildCrafts/web-dev
 
 ## Installation and Setup
 
-1. ```git clone``` 
-2. ```npm i```
+1. To clone this repository on your local machine: ```git clone https://github.com/morelme/core-algorithms.git``` 
+2. To install any dependencies: ```npm i```
 
 ## Usage and Examples
-1. ```npm t```
+1. To run the tests: ```npm t```
 Link to Big O time complexities: http://bigocheatsheet.com/
 
 # Core Algorithms
@@ -152,7 +152,7 @@ setSymmetricDifference(a, b)
 
 ## Sorting and Searching
 
-#### [x] mergeSort
+- [x] mergeSort
 
 Sort an array of numbers using the **merge sort** algorithm.
 
@@ -170,7 +170,7 @@ bubbleSort([10, 2, 7, 5, 8, 3, 6, 1, 4, 9])
 // => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
-- [] binarySearch
+- [ ] binarySearch
 
 Search for a number within an array using the **binary search** algorithm.
 
