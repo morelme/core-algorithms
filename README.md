@@ -19,7 +19,7 @@ Link to Big O time complexities: http://bigocheatsheet.com/
 
 ## Classic
 
-#### makeChange
+- [ ] makeChange
 
 Given a price and an amount paid, return the number of coins in each denomination that should be given as change.
 
@@ -36,7 +36,7 @@ makeChange({ price: 432, amountGiven: 500 })
 // => { quarters: 2, dimes: 1, nickels: 1, pennies: 3 }
 ```
 
-#### fizzBuzz
+- [ ] fizzBuzz
 
 Return an array of numbers from 1 to 100.
 
@@ -49,7 +49,7 @@ fizzBuzz()
 // => [1, 2, 'Fizz', 4, 'Buzz', 'Fizz', 7, 8, 'Fizz', 'Buzz', 11, 'Fizz', 13, 14, 'FizzBuzz', ...]
 ```
 
-#### isPalindrome
+- [ ] isPalindrome
 
 Determine if a string is a palindrome. Return `true` or `false`.
 
@@ -68,7 +68,7 @@ isPalindrome('A man, a plan, a canal: Panama')
 
 ## Numeric
 
-#### factorial
+- [ ] factorial
 
 Return the factorial of a number.
 
@@ -77,7 +77,7 @@ factorial(5)
 // => 120
 ```
 
-#### fibonacci
+- [ ] fibonacci
 
 Return an array of Fibonacci numbers to the _nth_ position.
 
@@ -86,7 +86,7 @@ fibonacci(10)
 // => [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 ```
 
-#### collatzConjecture
+- [ ] collatzConjecture
 
 Return the Collatz sequence for a given number.
 
@@ -105,7 +105,7 @@ collatzConjecture(7)
 
 ## Set Operations
 
-#### setUnion
+- [ ] setUnion
 
 Return the union of two sets.
 
@@ -116,7 +116,7 @@ setUnion(a, b)
 // => [1, 2, 3, 4, 6, 8]
 ```
 
-#### setIntersection
+- [ ] setIntersection
 
 Return the intersection of two sets.
 
@@ -127,7 +127,7 @@ setIntersection(a, b)
 // => [2, 4]
 ```
 
-#### setCompliment
+- [ ] setCompliment
 
 Return the compliment of two sets.
 
@@ -138,7 +138,7 @@ setCompliment(a, b)
 // => [6, 8]
 ```
 
-#### setSymmetricDifference
+- [ ] setSymmetricDifference
 
 Return the symmetric difference of two sets.
 
@@ -183,7 +183,7 @@ binarySearch(numbers, 45)
 
 ## Graphing and Geometry
 
-- []closestPair
+- [ ]closestPair
 
 Given a set of points on a 2-dimensional plane, return the pair of points with the least distance between them.
 
@@ -206,7 +206,7 @@ closestPair(points)
 // => { pair: [[-1, 0], [-2, 0]], distance: 1 }
 ```
 
-- []isConnectedGraph
+- [ ]isConnectedGraph
 
 Check if a graph is connected or disconnected. Return `true` or `false`.
 
