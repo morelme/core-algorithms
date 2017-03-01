@@ -1,8 +1,8 @@
 export default function makeChange({price, amountGiven}) {
-  let quarterValue = 25
-  let dimeValue = 10
-  let nickelValue = 5
-  let pennieValue = 1
+  const quarterValue = 25
+  const dimeValue = 10
+  const nickelValue = 5
+  const pennieValue = 1
 
   let changeHash = {}
   changeHash['quarters'] = 0
