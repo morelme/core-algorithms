@@ -1,13 +1,14 @@
 import { expect } from 'chai'
-import fibonacci from '../src/fibonacci'
+import mergeSort from '../src/mergeSort'
 
-describe.only('fibonacci()', function(){
+describe('mergeSort()', function(){
   it('should be a function', function(){
-    expect(fibonacci).to.be.a('function')
+    expect(mergeSort).to.be.a('function')
   })
 
-  it('returns an array of Fibonacci numbers to the nth position', function(){
-    const fibonacciSequence = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
-    expect(fibonacci(10)).to.eql(fibonacciSequence)
+  it('sorts an array of numbers using the merge sort algorithm', function(){
+    const unsortedArray = [ 34, 203, 3, 746, 200, 984, 198, 764, 9]
+    const sortedArr = [ 3, 9, 34, 198, 200, 203, 746, 764, 984 ]
+    expect(mergeSort(unsortedArray)).to.eql(sortedArr)
   })
 })
