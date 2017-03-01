@@ -68,7 +68,7 @@ isPalindrome('A man, a plan, a canal: Panama')
 
 ## Numeric
 
-- [ ] factorial
+- [x] factorial
 
 Return the factorial of a number.
 
