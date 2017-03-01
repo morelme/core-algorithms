@@ -49,7 +49,7 @@ fizzBuzz()
 // => [1, 2, 'Fizz', 4, 'Buzz', 'Fizz', 7, 8, 'Fizz', 'Buzz', 11, 'Fizz', 13, 14, 'FizzBuzz', ...]
 ```
 
-- [ ] isPalindrome
+- [x] isPalindrome
 
 Determine if a string is a palindrome. Return `true` or `false`.
 
