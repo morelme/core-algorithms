@@ -1,7 +1,7 @@
 import { expect } from 'chai'
 import factorial from '../src/factorial'
 
-describe.only('factorial()', function(){
+describe('factorial()', function(){
   it('should be a function', function(){
     expect(factorial).to.be.a('function')
   })
