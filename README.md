@@ -19,7 +19,7 @@ Link to Big O time complexities: http://bigocheatsheet.com/
 
 ## Classic
 
-- [ ] makeChange
+- [x] makeChange
 
 Given a price and an amount paid, return the number of coins in each denomination that should be given as change.
 
@@ -36,7 +36,7 @@ makeChange({ price: 432, amountGiven: 500 })
 // => { quarters: 2, dimes: 1, nickels: 1, pennies: 3 }
 ```
 
-- [ ] fizzBuzz
+- [x] fizzBuzz
 
 Return an array of numbers from 1 to 100.
 
