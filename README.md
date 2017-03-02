@@ -105,7 +105,7 @@ collatzConjecture(7)
 
 ## Set Operations
 
-- [ ] setUnion
+- [x] setUnion
 
 Return the union of two sets.
 
@@ -116,7 +116,7 @@ setUnion(a, b)
 // => [1, 2, 3, 4, 6, 8]
 ```
 
-- [ ] setIntersection
+- [x] setIntersection
 
 Return the intersection of two sets.
 
